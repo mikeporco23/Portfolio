@@ -1,7 +1,7 @@
 # Michael Porco
 ## Data Analytics Portfolio
 
-Welcome to my Data Analytics Portfolio! This repository contains various data analysis projects showcasing my skills and techniques in data science and analytics.
+Welcome to my Data Analytics Portfolio! This repository contains various data analysis projects showcasing my skills and techniques in data science, analytics, and overall programming familiarity.
 
 ### Projects
 
